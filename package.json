@@ -1,7 +1,7 @@
 {
   "name": "mediocre-ui",
-  "version": "0.0.1",
-  "description": "Mediocre UI is a simple, modular and accessible design foundations library that gives you the building blocks you need to build quality products with speed and scale.",
+  "version": "0.0.2",
+  "description": "Mediocre UI is a simple, scalable and accessible design foundations library that gives you the building blocks you need to build quality products.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
