@@ -1,0 +1,26 @@
+{
+  "name": "mediocre-ui",
+  "version": "0.0.1",
+  "description": "Mediocre UI is a simple, modular and accessible design foundations library that gives you the building blocks you need to build quality products with speed and scale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SargamDesign/Mediocre-UI.git"
+  },
+  "keywords": [
+    "design",
+    "foundations",
+    "ui",
+    "library",
+    "principles"
+  ],
+  "author": "Abhimanyu Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SargamDesign/Mediocre-UI/issues"
+  },
+  "homepage": "https://github.com/SargamDesign/Mediocre-UI#readme"
+}
